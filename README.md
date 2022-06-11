@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deep-Ji
+- 👋 Hi, I’m @Kaushik Gupta from IISER, Mohali
 - 👀 I’m interested in Machine learning and Gamma ray Physics
 - 🌱 I’m currently learning Non-parametric Bayesian Modelling.
 - 📫 How to reach me @ms20129@iisermohali.ac.in
